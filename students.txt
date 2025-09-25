@@ -1,0 +1,7 @@
+001023456,Smith,Alice,Chemistry,3.7
+001027529,Jones,Bob,Mathematics,2.8
+001025812,Pollard,Carol,Chemistry,3.9
+001028592,Plesha,Dave,Physics,2.4
+001021953,Ferguson,Eve,Mathematics,3.4
+001029831,Bloxham,Frank,Mathematics,3.7
+001025873,Fillwalk,Gary,Physics,3.2
